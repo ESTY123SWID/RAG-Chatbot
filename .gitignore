@@ -1,0 +1,18 @@
+# סודות
+.env
+
+# סביבה וירטואלית
+.venv/
+venv/
+
+# קבצי Python זמניים
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# מסד הנתונים הווקטורי המקומי (נוצר מחדש באמצעות ingestion)
+chroma_db/
+
+# קבצי עריכה
+.vscode/
+.idea/

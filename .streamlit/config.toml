@@ -1,0 +1,10 @@
+[browser]
+# ללא שליחת נתוני שימוש לשירות חיצוני
+gatherUsageStats = false
+
+[theme]
+base = "light"
+primaryColor = "#7c6fd6"
+backgroundColor = "#ffffff"
+secondaryBackgroundColor = "#f3f0ff"
+textColor = "#2d2a3e"

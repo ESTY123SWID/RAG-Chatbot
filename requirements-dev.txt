@@ -1,0 +1,3 @@
+# נדרש רק ליצירת מסמכי הדוגמה (scripts/create_sample_docs.py) — לא להרצת המערכת
+-r requirements.txt
+python-docx
